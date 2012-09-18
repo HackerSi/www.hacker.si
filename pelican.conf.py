@@ -12,7 +12,7 @@ TIMEZONE = 'CET'
 # Extras
 GITHUB_URL = 'http://github.com/hackerSi/www.hacker.si.git'
 TWITTER_USERNAME = 'hackerSi'
-DISQUS_SITENAME = 'hacker'
+DISQUS_SITENAME = 'hackersi'
 
 # Social links
 SOCIAL = (('twitter', 'http://twitter.com/hackerSi'),
